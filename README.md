@@ -1,14 +1,19 @@
-# Correlation-Analysis
-Correlation analysis between Gross Domestic Produkct (GDP) and Organized Crime of 2021 with Python using Jupyter Notebook.
+# Correlation Analysis: Gross Domestic Product (GDP) and Organized Crime in 2021 using Python and Jupyter Notebook
 
-This repository contains an learning project which is used for my university studies.
+This repository encompasses a learning project undertaken as part of my university studies. The project involves a comprehensive correlation analysis between Gross Domestic Product (GDP) and Organized Crime for the year 2021, implemented using Python within a Jupyter Notebook environment.
 
-If forced me to immerse myself to solve the following problems:
-* finding data with good quality
-* merging dataframes together with only partially matching columns
-* using the right color and value scale without manipulating
-* using logarithmic value for better visualization
-* when do I use spearmen and when pearson correlation
-* how do I inteprete correlation
-* when do I use wich chart
+---
 
+### This project compelled me to delve into solving various challenges, including:
+
+* Locating datasets of high quality.
+* Merging dataframes with partially matching columns.
+* Utilizing appropriate color and value scales without manipulation.
+* Implementing logarithmic values for enhanced visualization.
+* Understanding when to use Spearman and when to use Pearson correlation.
+* Interpreting correlation results effectively.
+* Knowing when to choose specific types of charts for visualization.
+
+Pyhton Libraries: Numpy, Pandas and Plotly 
+
+This is a correlation analysis without any causalities.
