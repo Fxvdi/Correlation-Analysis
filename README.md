@@ -16,7 +16,7 @@ This repository encompasses a learning project undertaken as part of my universi
 * Knowing when to choose specific types of charts for visualization.
 * Working with Dash to visualize the data.
 * Adding a bit of CSS to the Dash application.
-* 
+  
 
 Python Libraries: Numpy, Pandas, Plotly and Dash
 
